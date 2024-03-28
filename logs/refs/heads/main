@@ -1,0 +1,82 @@
+0000000000000000000000000000000000000000 30d9cc89900a4abf661235589d5f52533f5f1a3f unknown <Johannes@JODesktop.(none)> 1687631624 +0200	clone: from https://github.com/Johansens/JFU_testing.git
+30d9cc89900a4abf661235589d5f52533f5f1a3f 9b36991456f65594c39c15ec43bb786563a67764 Johannsen <jogiosten@mein.gmx> 1687634083 +0200	commit: removed starting agents
+9b36991456f65594c39c15ec43bb786563a67764 17de5b02c240d35f20920445515614136369ad6a Johannsen <jogiosten@mein.gmx> 1687642608 +0200	commit: fixes
+17de5b02c240d35f20920445515614136369ad6a ae103a9f03e23d78c902610d69467453f451de10 Johannsen <jogiosten@mein.gmx> 1687727310 +0200	commit: fixes + removed old stuff
+ae103a9f03e23d78c902610d69467453f451de10 32cd2ee9f94aebf4326b3b819d76e6cd8071302d Johannsen <jogiosten@mein.gmx> 1687727329 +0200	commit: us dockyard construction speed
+32cd2ee9f94aebf4326b3b819d76e6cd8071302d e6a7b0de753edf28659f87a94561bf3b60fa74d5 Johannsen <jogiosten@mein.gmx> 1687727349 +0200	commit: Hungary changes
+e6a7b0de753edf28659f87a94561bf3b60fa74d5 8e65f1b0dee0098ad33532acca9c6bdf2ec347c2 Johannsen <jogiosten@mein.gmx> 1687727393 +0200	commit: soviet buff + ita railroad
+8e65f1b0dee0098ad33532acca9c6bdf2ec347c2 d738e5db6568b637acba92e18c924fb7c2da8bc9 Johannsen <jogiosten@mein.gmx> 1687727418 +0200	commit: ai focuses + units
+d738e5db6568b637acba92e18c924fb7c2da8bc9 7e39394291d9d492c454de4dc1206f59861ba5f1 Johannsen <jogiosten@mein.gmx> 1687727435 +0200	commit: finland/norway eco
+7e39394291d9d492c454de4dc1206f59861ba5f1 7fe37f7b0341c91dabd362cca3473c7b1682fad7 Johannsen <jogiosten@mein.gmx> 1687727451 +0200	commit: weight reverted
+7fe37f7b0341c91dabd362cca3473c7b1682fad7 a6b7be5fcc4f3c94fa44f6f5b57e7be5c7284670 Johannsen <jogiosten@mein.gmx> 1687727462 +0200	commit: more fixes
+a6b7be5fcc4f3c94fa44f6f5b57e7be5c7284670 63c06734c294b2544fe7a5f3de28c28b06b6ffcd Johannsen <jogiosten@mein.gmx> 1687729249 +0200	commit: fixes
+63c06734c294b2544fe7a5f3de28c28b06b6ffcd 87e007c8d29c94c37a5ea8e0ae1154f98a25d8da Johannsen <jogiosten@mein.gmx> 1687797824 +0200	pull --tags origin main: Fast-forward
+87e007c8d29c94c37a5ea8e0ae1154f98a25d8da 302bdfbfc47ca3e0f1b4caee5870d13076d0a71b Johannsen <jogiosten@mein.gmx> 1687798255 +0200	commit: pdx alta
+302bdfbfc47ca3e0f1b4caee5870d13076d0a71b c2cd338d4c394542a44b2e3d96c8a00e0220c28f Johannsen <jogiosten@mein.gmx> 1687798394 +0200	commit: katjuscha fix
+c2cd338d4c394542a44b2e3d96c8a00e0220c28f 6ccea4da6ed2cdc48af660764749d5d532a1a9dd Johannsen <jogiosten@mein.gmx> 1687808880 +0200	commit: fixes + ai limiter +performance
+6ccea4da6ed2cdc48af660764749d5d532a1a9dd 4adfa5938889895778046dc800119a19aed996ed Johannsen <jogiosten@mein.gmx> 1687808911 +0200	commit: fixes + more eco for NOR/FIN
+4adfa5938889895778046dc800119a19aed996ed c5f34131f5431716e207dc3e62addd9f803d3cab Johannsen <jogiosten@mein.gmx> 1687808951 +0200	commit: rangers + camels
+c5f34131f5431716e207dc3e62addd9f803d3cab 10513bcfecba12059cbae2e7a07ddea1fcb76b16 Johannsen <jogiosten@mein.gmx> 1687812542 +0200	commit: dive breaks +15 air defence
+10513bcfecba12059cbae2e7a07ddea1fcb76b16 349e5503a553106b1c420fa68e379701f71de875 Johannsen <jogiosten@mein.gmx> 1687814709 +0200	commit: some minor changes
+349e5503a553106b1c420fa68e379701f71de875 309518ec980e38a235fba9f3e204b216853ecd53 Johannsen <jogiosten@mein.gmx> 1687857997 +0200	pull --tags origin main: Fast-forward
+309518ec980e38a235fba9f3e204b216853ecd53 354b730f9fe3c1aa6b0b413e69e7145d306db5b8 Johannsen <jogiosten@mein.gmx> 1687866864 +0200	commit: fixes and spawn ins + more performance
+354b730f9fe3c1aa6b0b413e69e7145d306db5b8 3700c4b65992e8dcf87f3d2cc36aefba477848e4 Johannsen <jogiosten@mein.gmx> 1687868382 +0200	commit: fixes
+3700c4b65992e8dcf87f3d2cc36aefba477848e4 68c285ba4bedc30e95f2b7ac57d6014e33139819 Johannsen <jogiosten@mein.gmx> 1687870984 +0200	commit: fixes
+68c285ba4bedc30e95f2b7ac57d6014e33139819 2b8ec78ac30ccb56356a4b9be14e87e3a83405be Johannsen <jogiosten@mein.gmx> 1687977902 +0200	commit: fixes and germany stuff
+2b8ec78ac30ccb56356a4b9be14e87e3a83405be 779733384d7eb508b016860931a83a7fab0f6eb7 Johannsen <jogiosten@mein.gmx> 1687977903 +0200	pull --tags origin main: Merge made by the 'ort' strategy.
+779733384d7eb508b016860931a83a7fab0f6eb7 082b597927c178d844cace0f3cc5591434a6b511 Johannsen <jogiosten@mein.gmx> 1688126544 +0200	commit: fixes
+082b597927c178d844cace0f3cc5591434a6b511 dfd1adab3f64573e5129f925565ad6b64a107cf9 Johannsen <jogiosten@mein.gmx> 1688126570 +0200	commit: bulgaria mini rework
+dfd1adab3f64573e5129f925565ad6b64a107cf9 649d42d0be3fa45da3b42f90dd8b656342f46555 Johannsen <jogiosten@mein.gmx> 1688126582 +0200	commit: yugo/greece war
+649d42d0be3fa45da3b42f90dd8b656342f46555 7260b66ec5e510e022b0e1ef12b04b8031b0a669 Johannsen <jogiosten@mein.gmx> 1688126596 +0200	commit: doctrine boni
+7260b66ec5e510e022b0e1ef12b04b8031b0a669 37188079f5fef1f99d5dd54fd944a845b0492514 Johannsen <jogiosten@mein.gmx> 1688126615 +0200	commit: barb stuff fixes amd locs
+37188079f5fef1f99d5dd54fd944a845b0492514 bd3af6b154c8fbed89c853d8b11e337f377f52f7 Johannsen <jogiosten@mein.gmx> 1688140004 +0200	commit: norway war support
+bd3af6b154c8fbed89c853d8b11e337f377f52f7 bd775aa96143f66cc237ef5b22e258edad94bd21 Johannsen <jogiosten@mein.gmx> 1688140909 +0200	commit: bulgaria fixed
+bd775aa96143f66cc237ef5b22e258edad94bd21 e8857f9cc5920bf5750c6be20ed12c3f61091983 Johannsen <jogiosten@mein.gmx> 1688220004 +0200	commit: Africa naval base
+e8857f9cc5920bf5750c6be20ed12c3f61091983 d1a3d5306a83bf5e225c121148785ef52dd8a81e Johannsen <jogiosten@mein.gmx> 1688220034 +0200	commit: last stand/force attack nerf
+d1a3d5306a83bf5e225c121148785ef52dd8a81e f92e64a9a812e454604c85f8fe82814bbdd8f0b4 Johannsen <jogiosten@mein.gmx> 1688220138 +0200	commit: intelfixes (hotjoin crashes should be fixed)
+f92e64a9a812e454604c85f8fe82814bbdd8f0b4 fe157befd78b6e7908519105920015896b599686 Johannsen <jogiosten@mein.gmx> 1688220204 +0200	commit: yalu modding
+fe157befd78b6e7908519105920015896b599686 13b1f2ed101b87af630ea4f9ca5f3c55a48b0443 Johannsen <jogiosten@mein.gmx> 1688220217 +0200	commit: norway nerf
+13b1f2ed101b87af630ea4f9ca5f3c55a48b0443 526ec6c341a04ba1b9e1fb2bac54a46bc64d9854 Johannsen <jogiosten@mein.gmx> 1688220271 +0200	commit: intel army combat nerf
+526ec6c341a04ba1b9e1fb2bac54a46bc64d9854 5ee329e26b771375600b24d44f47df68fcf0a0c7 Johannsen <jogiosten@mein.gmx> 1688220277 +0200	commit: hungary nerf
+5ee329e26b771375600b24d44f47df68fcf0a0c7 44d641c49d1696eac6fdbb97f27277521c8fc6f8 Johannsen <jogiosten@mein.gmx> 1688220285 +0200	commit: bye bye france fleet
+44d641c49d1696eac6fdbb97f27277521c8fc6f8 78edadb5993f8041313a7140939ce79e580f5d85 Johannsen <jogiosten@mein.gmx> 1688220588 +0200	commit: spain commando
+78edadb5993f8041313a7140939ce79e580f5d85 e77745a5c9301194ecf686c06187eb8260635cd7 Johannsen <jogiosten@mein.gmx> 1688221472 +0200	commit: veterancy nerf
+e77745a5c9301194ecf686c06187eb8260635cd7 d98d7ef6ccc1079c3a3648dfcbd26c01c440df70 Johannsen <jogiosten@mein.gmx> 1688221529 +0200	commit: france fix
+d98d7ef6ccc1079c3a3648dfcbd26c01c440df70 f70b851e6c9f6f379b9985bb9cdb47bb3bbbe3a1 Johannsen <jogiosten@mein.gmx> 1688383756 +0200	pull --tags origin main: Fast-forward
+f70b851e6c9f6f379b9985bb9cdb47bb3bbbe3a1 8d852fd0ba768825720898e8a3379c28400a81ad Johannsen <jogiosten@mein.gmx> 1688389288 +0200	commit: last stand partial revert
+8d852fd0ba768825720898e8a3379c28400a81ad f0767aa7758b06dd62658ff1f47420b56036b5e6 Johannsen <jogiosten@mein.gmx> 1688389325 +0200	commit: fixes + no ai foci
+f0767aa7758b06dd62658ff1f47420b56036b5e6 0dcd9f9dd5fff0289db95f5da294e0a7e97da431 Johannsen <jogiosten@mein.gmx> 1688389344 +0200	commit: second vienna award
+0dcd9f9dd5fff0289db95f5da294e0a7e97da431 692115177242a12d3719270e02b9e552ee6962d3 Johannsen <jogiosten@mein.gmx> 1688389353 +0200	commit: france nerf
+692115177242a12d3719270e02b9e552ee6962d3 a4ab815a9545c636dac646f1d9b566b47c01ebb4 Johannsen <jogiosten@mein.gmx> 1688389359 +0200	commit: norway nerf
+a4ab815a9545c636dac646f1d9b566b47c01ebb4 20284450cd8d7e9a79b9484aac33f775a518f4c1 Johannsen <jogiosten@mein.gmx> 1688389377 +0200	commit: italy fix + high velo cannon removed
+20284450cd8d7e9a79b9484aac33f775a518f4c1 a966c1b6b364a1dbb208ba314734f581a3ee7a9a Johannsen <jogiosten@mein.gmx> 1688395924 +0200	commit: france stuff
+a966c1b6b364a1dbb208ba314734f581a3ee7a9a 6177913708809ba4fa1d338c84ac3c702bc14346 Johannsen <jogiosten@mein.gmx> 1688427075 +0200	commit: eventing changes (zu faul für echten commend
+6177913708809ba4fa1d338c84ac3c702bc14346 2bb2beff5914b60318d8184c8eabc972281fb042 Johannsen <jogiosten@mein.gmx> 1688427469 +0200	commit: gun def nerf für kenobi game
+2bb2beff5914b60318d8184c8eabc972281fb042 6177913708809ba4fa1d338c84ac3c702bc14346 Johannsen <jogiosten@mein.gmx> 1688473757 +0200	reset: moving to HEAD~
+6177913708809ba4fa1d338c84ac3c702bc14346 2bb2beff5914b60318d8184c8eabc972281fb042 Johannsen <jogiosten@mein.gmx> 1688473778 +0200	pull --tags origin main: Fast-forward
+2bb2beff5914b60318d8184c8eabc972281fb042 6177913708809ba4fa1d338c84ac3c702bc14346 Johannsen <jogiosten@mein.gmx> 1688473786 +0200	reset: moving to HEAD~
+6177913708809ba4fa1d338c84ac3c702bc14346 2bb2beff5914b60318d8184c8eabc972281fb042 Johannsen <jogiosten@mein.gmx> 1688473830 +0200	pull --tags origin main: Fast-forward
+2bb2beff5914b60318d8184c8eabc972281fb042 dd289ffdf718e0b50e62e57577d4c49614ebf84c Johannsen <jogiosten@mein.gmx> 1688473877 +0200	commit: reverted changes
+dd289ffdf718e0b50e62e57577d4c49614ebf84c 01f2fb9a6439ba4827ce39872b88d1701d794b84 Johannsen <jogiosten@mein.gmx> 1688474194 +0200	commit: fixes
+01f2fb9a6439ba4827ce39872b88d1701d794b84 90ad85aafdb7da5fd5b13706b7e3ddd973a0be5a Johannsen <jogiosten@mein.gmx> 1688474348 +0200	commit: more fixes
+90ad85aafdb7da5fd5b13706b7e3ddd973a0be5a f10c90ffad08ef381f980d48fd78515f61b1253e Johannsen <jogiosten@mein.gmx> 1688506989 +0200	commit: fuel silo cost reduced
+f10c90ffad08ef381f980d48fd78515f61b1253e d8c90b6b3fd91475fc836be606e639635513e7a6 Johannsen <jogiosten@mein.gmx> 1688507018 +0200	commit: intel combat bonus fix
+d8c90b6b3fd91475fc836be606e639635513e7a6 56aa7ebb59903d22d344acb84e8e63cae6a9e472 Johannsen <jogiosten@mein.gmx> 1688507027 +0200	commit: ger fix
+56aa7ebb59903d22d344acb84e8e63cae6a9e472 886473620466307eed9fc0637c94e12ace65dc72 Johannsen <jogiosten@mein.gmx> 1688570554 +0200	commit: cas dmg reverted
+886473620466307eed9fc0637c94e12ace65dc72 a61a306f1549acab709197a4efaee84286822cb0 Johannsen <jogiosten@mein.gmx> 1688570723 +0200	commit: france fix
+a61a306f1549acab709197a4efaee84286822cb0 97e0c4f12b4d176860e2dbe7b54bb66efcd573bc Johannsen <jogiosten@mein.gmx> 1688587669 +0200	commit: cas weil unbreakable
+97e0c4f12b4d176860e2dbe7b54bb66efcd573bc 2f9e38e0871bb65b31f5448eb0ffc1849b9788aa Johannsen <jogiosten@mein.gmx> 1688587675 +0200	commit: air zeug
+2f9e38e0871bb65b31f5448eb0ffc1849b9788aa f88d80e1a3b6290d50efe968bb8774ab168ac56a Johannsen <jogiosten@mein.gmx> 1688587685 +0200	commit: ita gun boni
+f88d80e1a3b6290d50efe968bb8774ab168ac56a b45600af9b6e6f1c8801403def25f030da75bda2 Johannsen <jogiosten@mein.gmx> 1688588187 +0200	commit: fixes
+b45600af9b6e6f1c8801403def25f030da75bda2 13b14ffc79fa5b1360b789647b91d8837d8d8263 Johannsen <jogiosten@mein.gmx> 1688741200 +0200	commit: hungary change
+13b14ffc79fa5b1360b789647b91d8837d8d8263 c1258be3515941d9255f8902a112ca62e79acec5 Johannsen <jogiosten@mein.gmx> 1688742249 +0200	commit: italy fix
+c1258be3515941d9255f8902a112ca62e79acec5 efca86a90eca33ec771a3fc65b7ae492bfd65917 Johannsen <jogiosten@mein.gmx> 1688768486 +0200	pull --tags origin main: Fast-forward
+efca86a90eca33ec771a3fc65b7ae492bfd65917 6ae1445da80de87e398fc6a56722f67561c31ff3 Johannsen <jogiosten@mein.gmx> 1688828541 +0200	commit: finland eco nerf
+6ae1445da80de87e398fc6a56722f67561c31ff3 5cfef178c0469e90e15fb81c4be4170768a27a85 Johannsen <jogiosten@mein.gmx> 1688828560 +0200	commit: hungary and england gens
+5cfef178c0469e90e15fb81c4be4170768a27a85 6bd3193160db2e5f1637719440e86d086b75ab7c Johannsen <jogiosten@mein.gmx> 1688828566 +0200	commit: hungary light inf nerf
+6bd3193160db2e5f1637719440e86d086b75ab7c b4c3c6752280c101d298700f8608e44faf48923c Johannsen <jogiosten@mein.gmx> 1688830974 +0200	commit: transilvania changes
+b4c3c6752280c101d298700f8608e44faf48923c 7a88bb7ff2e45155ecc85a1c5e2f73477d229c98 Johannsen <jogiosten@mein.gmx> 1688830991 +0200	commit: first vienna award
+7a88bb7ff2e45155ecc85a1c5e2f73477d229c98 d64ee38852a9e84436cd2a3aa4d5e9fc5694bf5a Johannsen <jogiosten@mein.gmx> 1688831004 +0200	commit: italy naval/air foci
+d64ee38852a9e84436cd2a3aa4d5e9fc5694bf5a 5318eaee319c64c9ffe64643e73ed9f56d735cdd Johannsen <jogiosten@mein.gmx> 1688831013 +0200	commit: diplo stuff
+5318eaee319c64c9ffe64643e73ed9f56d735cdd d13be7ee2e1abf2b9be0892bc528c8d71ecfbc46 Johannsen <jogiosten@mein.gmx> 1688831549 +0200	commit: -2 civs
+d13be7ee2e1abf2b9be0892bc528c8d71ecfbc46 42225b41e955d1df6d124b40b8ecd842c6826696 Johannsen <jogiosten@mein.gmx> 1688831595 +0200	commit: fixes
